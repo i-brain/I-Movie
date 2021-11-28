@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317692347203",
+    "project_id": "imovie-da47c",
+    "storage_bucket": "imovie-da47c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317692347203:android:7002317346a9813e35e5f6",
+        "android_client_info": {
+          "package_name": "com.example.i_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317692347203-git48a6061r0b3p63ouhrgd2emdldcke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi5A-M9zFbw816nmGRIcUF7UGQOZF68Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317692347203-git48a6061r0b3p63ouhrgd2emdldcke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
